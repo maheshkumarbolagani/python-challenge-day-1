@@ -31,33 +31,33 @@ Algorithm
   <img width="1729" height="1107" alt="Screenshot 2026-01-29 194930" src="https://github.com/user-attachments/assets/d8a7f4ab-1307-4fd8-ac30-486dc13ca79b" />
   # python-assignment-2
   smart id and credential validation
- ** Problem Statement**
+ Problem Statement
 -The program takes four details from the user.
 -These details are full name, email id, mobile number, and age.
 -Each input is checked based on given rules.
 -If all inputs are valid, the program prints User Profile is VALID.
 -If any input is invalid, the program prints User Profile is INVALID.
 
-**Validation Rules**
+Validation Rules
 
-**Full Name**
+Full Name
 -Must contain at least two words.
 -Should not start or end with a space.
 
-**Email ID**
+Email ID
 -Must contain at least one at symbol and one dot.
 -Should not start with the at symbol.
 
-**Mobile Number**
+Mobile Number
 -Must contain exactly ten digits.
 -Should contain only numbers.
 -Should not start with zero.
 
-**Age**
+Age
 -Must be greater than eighteen.
 -Must be less than or equal to sixty.
 
-**Algorithm**
+Algorithm
 
 -Ask the user to enter full name, email id, mobile number, and age.
 -Check the full name for proper spacing and word count.
